@@ -1,0 +1,17 @@
+<Widget>
+    <Kind>6</Kind>
+    <Name>DEPTH RANGE</Name>
+    <HighValue>255.000000000</HighValue>
+    <LowValue>152.257278442</LowValue>
+</Widget>
+<Widget>
+    <Kind>7</Kind>
+    <Name>BLOB SIZE</Name>
+    <HighValue>32.834953308</HighValue>
+    <LowValue>206.000000000</LowValue>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>OPEN KINECT</Name>
+    <Value>0</Value>
+</Widget>
